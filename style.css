@@ -102,6 +102,11 @@ background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75
     font-size: 14px;
 }
 
+
+a:first-child {
+    color:red;
+  } 
+
 ol li:nth-child(odd) {
     color: turquoise;
 }
